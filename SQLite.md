@@ -1,0 +1,1 @@
+* скачать: https://sqlite.org/download.html

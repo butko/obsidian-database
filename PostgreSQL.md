@@ -1,0 +1,1 @@
+* скачать: https://www.postgresql.org/download/
